@@ -1,7 +1,7 @@
 # LegacyFabric-ModList
 A list of the mods available for legacy-fabric.
 
-You can get legacy-fabric for the [Vanilla Launcher](https://github.com/Legacy-Fabric/fabric-installer#installing) or [MultiMC](https://github.com/Grayray75/LegacyFabric-MultiMC).
+You can get legacy-fabric for the [Vanilla Launcher](https://github.com/Legacy-Fabric/fabric-installer#installing) or [MultiMC](https://github.com/Grayray75/LegacyFabric-MultiMC#install-guide).
 
 ## 1.8.9
 
@@ -22,7 +22,7 @@ For the most mods you will also need the [Fabric API](https://www.curseforge.com
 | Name | Description | Author | 
 | ---- | ----------- | ------ |
 | [FPS-Display](https://modrinth.com/mod/fpsdisplay) | Shows your ingame FPS on screen | Grayray75 |
-| [Mod Menu](https://modrinth.com/mod/legacy-mod-menu) | Adds a screen for viewing a list of installed mods | ------ |
+| [Mod Menu](https://modrinth.com/mod/legacy-mod-menu) | Adds a screen for viewing a list of installed mods | BoogieMonster1O1 |
 | ---- | ----------- | ------ |
 | ---- | ----------- | ------ |
 
