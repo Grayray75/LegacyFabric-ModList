@@ -1,6 +1,6 @@
 # LegacyFabric-ModList
 
-⚠️ **This list is outdated and not maintained anymore**
+⚠️ **This list is outdated and not maintained anymore** ⚠️\
 For an updated version visit: https://legacyfabric.net/mods.html
 
 A list of the most mods available for Legacy-Fabric.
