@@ -1,4 +1,8 @@
 # LegacyFabric-ModList
+
+⚠️ **This list is outdated and not maintained anymore**
+For an updated version visit: https://legacyfabric.net/mods.html
+
 A list of the most mods available for Legacy-Fabric.
 
 You can get Legacy-Fabric for the [Vanilla Launcher](https://github.com/Legacy-Fabric/fabric-installer#installing) or [MultiMC](https://github.com/Grayray75/LegacyFabric-MultiMC#install-guide)
